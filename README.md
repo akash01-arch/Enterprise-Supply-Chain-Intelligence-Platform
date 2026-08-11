@@ -1,8 +1,8 @@
-# 🚚 Supply Chain Analysis & Intelligence Platform
+# Supply Chain Analysis & Intelligence Platform
 
 ## 📌 Project Status
 
-🚧 **Work in Progress**
+**Work in Progress**
 
 This project is an end-to-end **Supply Chain Analytics and Intelligence Platform** built to analyze supply chain performance, delivery risk, shipping efficiency, sales, and profitability.
 
